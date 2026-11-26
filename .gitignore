@@ -1,0 +1,9 @@
+# Секреты OAuth — никогда не коммитить
+client_secret*.json
+token.json
+.youtube/
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
